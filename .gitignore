@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+cache
+pml-testing.csv
+pml-training.csv
+PMLAssessments.Rproj
